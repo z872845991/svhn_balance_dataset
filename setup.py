@@ -7,7 +7,7 @@ setup(
     description="Balanced SVHN dataset wrapper",
     author="Jesse Wang",
     author_email="z872845991@gmail.com",
-    url="https://github.com/z872845991/svhn_balance_dataset",       # 可选：指向 Git 仓库
+    url="https://github.com/xiaolanshu/svhn_balance_dataset",       # 可选：指向 Git 仓库
     packages=find_packages(),            # 会自动找到 svhn_balance_dataset 目录
     install_requires=[
         "torch",
