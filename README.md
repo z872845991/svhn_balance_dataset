@@ -46,7 +46,7 @@ Key design goals:
 #### 1. From GitHub (latest development)
 
 ```bash
-pip install git+https://github.com/xiaolanshu/svhn_balance_dataset.git@main#egg=svhn_balance_dataset
+pip install "git+https://github.com/xiaolanshu/svhn_balance_dataset.git@main#egg=svhn_balance_dataset"
 ```
 
 ## Acknowledgments
