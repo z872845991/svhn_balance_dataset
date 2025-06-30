@@ -53,3 +53,18 @@ pip install "git+https://github.com/xiaolanshu/svhn_balance_dataset.git@main#egg
 - Original SVHN dataset introduced by Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, and Andrew Y. Ng at Stanford University (http://ufldl.stanford.edu/housenumbers/).
 
 - Implementation builds upon torchvision.datasets.SVHN from the PyTorch project.
+
+## Cite
+If you plan to use this processed dataset, you should cite the original authors:
+```bibtex
+@inproceedings{netzer2011reading,
+  title={Reading digits in natural images with unsupervised feature learning},
+  author={Netzer, Yuval and Wang, Tao and Coates, Adam and Bissacco, Alessandro and Wu, Baolin and Ng, Andrew Y and others},
+  booktitle={NIPS workshop on deep learning and unsupervised feature learning},
+  volume={2011},
+  number={2},
+  pages={4},
+  year={2011},
+  organization={Granada}
+}
+```
